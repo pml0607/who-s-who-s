@@ -1,0 +1,26 @@
+<annotation>
+	<folder>splitted_BIDV_data_6</folder>
+	<filename>31f1d8ed-ab16-40fa-8c03-c515f2bfa6c0.jpg</filename>
+	<path>/home/lynkenion/Downloads/splitted_BIDV_data_6/31f1d8ed-ab16-40fa-8c03-c515f2bfa6c0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>242</width>
+		<height>543</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ID_CARD</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>252</ymin>
+			<xmax>172</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

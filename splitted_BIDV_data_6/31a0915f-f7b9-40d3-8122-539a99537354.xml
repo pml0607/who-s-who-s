@@ -1,0 +1,26 @@
+<annotation>
+	<folder>splitted_BIDV_data_6</folder>
+	<filename>31a0915f-f7b9-40d3-8122-539a99537354.jpg</filename>
+	<path>/home/lynkenion/Downloads/splitted_BIDV_data_6/31a0915f-f7b9-40d3-8122-539a99537354.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>181</width>
+		<height>636</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lanyard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>84</ymin>
+			<xmax>121</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>
